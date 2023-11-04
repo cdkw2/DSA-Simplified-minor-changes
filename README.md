@@ -26,4 +26,4 @@ used for solving a problem, or performing a computation.
 Alright, now we know what an algorithm means, we shall explore the different islands within this island group.
 
 The Algorithms Island Group:
-- Island of Sorting Algorithms
+- [Island of Sorting Algorithms](https://github.com/TERNION-1121/DSA-Simplified/tree/main/Algorithms/Sorting%20Algorithms)
