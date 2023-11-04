@@ -1,7 +1,9 @@
 ## What is Sorting?
 
 ```
-A sorting algorithm is used to rearrange a given collection of elements, according to a comparision operator on the elements. The comparision operator is used to decide the new order of elements within the collection.
+A sorting algorithm is used to rearrange a given collection of elements, 
+according to a comparision operator on the elements. The comparision operator 
+is used to decide the new order of elements within the collection.
 ```
 
 Let's say we are given the following dataset:

@@ -8,7 +8,8 @@ We shall begin our exploration of DSA Concepts from the *Algorithms Island Group
 But, what do they mean? 🤔
 
 ```
-An algorithm is a procedure (set of sequential instructions), used for solving a problem, or performing a computation.
+An algorithm is a procedure (set of sequential instructions), 
+used for solving a problem, or performing a computation.
 ```
 
 <br>
