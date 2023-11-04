@@ -34,8 +34,8 @@ In such cases we make use of a comparision operator/function (as talked above), 
 
 ### Sorting Algorithms
 There are a variety of ways through which we can sort a given collection of numbers.
-Similarly there a variety of algorithms, which make use of different instructions/computations, to sort a given dataset.
+Similarly there are a variety of algorithms, which make use of different instructions/computations, to sort a given dataset.
 
 We'll begin with the ones which are the most intuitive and proceed our way up to the ones which are the most efficient.
 
-1. Selection Sort
+1. [Selection Sort](https://github.com/TERNION-1121/DSA-Simplified/tree/main/Algorithms/Sorting%20Algorithms/Selection%20Sort)
