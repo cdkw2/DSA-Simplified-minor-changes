@@ -75,7 +75,7 @@ swap(arr[i], arr[min_element_index])
   0   1   2   3   4  5
 [ 2,  8, 11, 21, 70, 40]
                   ^   ^
-                  i  |  minimum element's index -> 4
+                  i  |  minimum element's index -> 5
 
 swap(arr[i], arr[min_element_index])
 ```
