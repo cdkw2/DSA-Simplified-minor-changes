@@ -99,7 +99,7 @@ on your own, following the same steps as shown above.
 Now when we are done with an example,
 Let's have a look at the pseudocode, that will generalise the steps we have talked about so far. 
 
-<hr>
+<br>
 
 ## Pseudocode 
 
@@ -107,3 +107,20 @@ Let's have a look at the pseudocode, that will generalise the steps we have talk
 2. For each `i`, find the index of the minimum element of `arr` between indices `i` and `arr.length - 1` (inclusive).
 3. Swap `arr[i]` with `arr[min_element_index]`
 4. Increment `i` and repeat steps 2. and 3. till `i < arr.length - 1`.
+
+<br>
+
+## Time and Space Complexity
+
+We repeatedly traverse `arr` $n$ times where each iteration is one length shorter than the previous, beginning from length $n$, until we approach the last element of `arr`.
+
+Thus the number of iterations can be represented by,
+
+$$ n(n-1)(n-2)...(1) = n(n+1)/2 = (n^2 + n)/2 $$
+
+<br>
+
+$$ Time \ Complexity \rightarrow \theta(n^2) $$
+$$ Space \ Complexity \rightarrow O(1) $$
+
+> Selection sort, in both the worst case and the best case scenarios, does the same number of approximately $n^2$ iterations.

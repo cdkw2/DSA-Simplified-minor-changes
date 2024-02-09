@@ -39,3 +39,5 @@ Similarly there are a variety of algorithms, which make use of different instruc
 We'll begin with the ones which are the most intuitive and proceed our way up to the ones which are the most efficient.
 
 1. [Selection Sort](https://github.com/TERNION-1121/DSA-Simplified/tree/main/Algorithms/Sorting%20Algorithms/Selection%20Sort/selection-sort.md)
+
+2. [Bubble Sort](https://github.com/TERNION-1121/DSA-Simplified/tree/main/Algorithms/Sorting%20Algorithms/Bubble%20Sort/bubble-sort.md)

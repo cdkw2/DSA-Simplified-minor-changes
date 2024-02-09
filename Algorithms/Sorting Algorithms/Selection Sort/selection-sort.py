@@ -1,4 +1,5 @@
-def selectionSort(arr, n):
+def selectionSort(arr):
+    n = len(arr)
     for i in range(n - 1):
         min_elem_index = i
 
