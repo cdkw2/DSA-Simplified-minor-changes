@@ -116,7 +116,7 @@ We repeatedly traverse `arr` $n$ times where each iteration is one length shorte
 
 Thus the number of iterations can be represented by,
 
-$$ n(n-1)(n-2)...(1) = n(n+1)/2 = (n^2 + n)/2 $$
+$$ n+(n-1)+(n-2)+...+(1) = n(n+1)/2 = (n^2 + n)/2 $$
 
 <br>
 
